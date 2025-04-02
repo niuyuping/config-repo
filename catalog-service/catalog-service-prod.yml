@@ -1,2 +1,2 @@
 polar:
-  greeting: "prod from config server"
+  greeting: "prod from a refreshed config server"
