@@ -1,0 +1,4 @@
+polar:
+  greeting: "test from a refreshed config server"
+  testdata: 
+    enabled: true
